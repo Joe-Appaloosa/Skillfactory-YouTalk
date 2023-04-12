@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../../../../СЕРГЕЙ/создание сайта/HTML"
+    },
+    {
+      "name": "Skillfactory",
+      "path": ".."
+    },
+    {
+      "path": "../../../../../../ФОТО/YandexDisk/#FRONTEND/2. Проект YouTalk"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Skillfactory",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Default Dark+"
+  }
+}
