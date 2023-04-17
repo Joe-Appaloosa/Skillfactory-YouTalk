@@ -18,6 +18,7 @@
   position: sticky; /*фиксирует шапку*/
   top: 0;
   box-shadow: inset 0px -2px 0px #eff2f2;
+  z-index: 9;
 }
 .container {
   max-width: 1200px;
